@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ListExamples"
+rootProject.name = "GooglePlayStoreClone"
 include(":app")
+ 
